@@ -6,7 +6,6 @@
 
 	(1p) There’s a montage the picks up line while the fish is inside the green square
   
-	
  	(Widget A)
  
 	○ (0,5p)There is a montage that ends the fishing phase.
@@ -18,6 +17,7 @@
 ● (1p Mandatory) Implement a fish widget that moves up and down randomly and change its
 color whenever it is inside widget A.
 
+Optional:
 
 ● (0,5p) Create a main menu with two options: Exit (close the game) and Start (loads the
 playable level)
